@@ -1,0 +1,7 @@
+Death Star art piece by Ralph Borland in Amazon offices
+
+3 sections, trench, death star and target
+Each section has led tubes that light up in order to create animation
+Middle section (death star) has 4x2 = 8 scrolling LED screens displaying default ASCII text, with ability to customize through webiste. LED tube animations can also be controlled from website (always on, always off, or animated)
+
+Default state = leds on, default ASCII scrolling text.
